@@ -6,3 +6,4 @@ Users must be able to play in single player or multiplayer modes. In single play
 Game type, Cash in hand etc. should be configurable.
 A GUI needs a crated to visualize the Poker Table.
 Options must be provided for common poker actions like Call, Raise, Bet, Fold etc.
+![alt tag](http://i.imgur.com/SDdAqec.png)
